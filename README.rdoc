@@ -1,0 +1,3 @@
+= Poor Man's Dynamic DNS
+
+This is a Thor task to get current external IP and update to a domain's A record on PowerAdmin site.
